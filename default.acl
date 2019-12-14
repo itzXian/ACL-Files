@@ -1,0 +1,15 @@
+#################################
+#                               #
+#  Available options:           #
+#                               #
+#  [proxy_all] or [bypass_all]  #
+#  [outbound_block_list]        #
+#  [bypass_list]                #
+#  [proxy_list]                 #
+#  [remote_dns]                 #
+#                               #
+#################################
+
+[proxy_all]
+[bypass_list]
+(^|\.)163\.com$
