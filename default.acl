@@ -15,6 +15,7 @@
 [bypass_list]
 
 (^|\.)163\.com$
+(^|\.)tuna.tsinghua.edu.cn$
 
 # LAN
 0.0.0.0/8
