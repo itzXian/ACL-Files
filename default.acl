@@ -16,6 +16,7 @@
 
 (^|\.)163\.com$
 (^|\.)tuna.tsinghua.edu.cn$
+(^|\.)realmebbs.com$
 
 # LAN
 0.0.0.0/8
