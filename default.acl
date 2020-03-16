@@ -18,6 +18,8 @@
 (^|\.)tuna.tsinghua.edu.cn$
 (^|\.)realmebbs.com$
 (^|\.)zhihu.com$
+(^|\.)baidu.com$
+(^|\.)bilibili.com$
 
 # LAN
 0.0.0.0/8
