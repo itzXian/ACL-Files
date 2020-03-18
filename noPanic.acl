@@ -16,12 +16,6 @@
 
 (^|\.)realmebbs\.com$
 
-# CN domain
-(^|\.)edu\.cn$
-(^|\.)gov\.cn$
-(^|\.)net\.cn$
-(^|\.)org\.cn$
-
 # China
 (^|\.)\w*-cn\w*\.\w*$
 (^|\.)\w*0x\w*\.\w*$
