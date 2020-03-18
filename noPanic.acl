@@ -701,6 +701,21 @@
 (^|\.)zhongsou\.com$
 (^|\.)zhuihd\.com$
 
+# GFWList Whitelist
+(^|\.)connectivitycheck\.gstatic\.com$
+(^|\.)cwb\.gov\.tw$                                                   (^|\.)dbnsa\.gov\.tw$                                                 (^|\.)eastcoast-nsa\.gov\.tw$                                         (^|\.)erv-nsa\.gov\.tw$                                               (^|\.)khm\.google\.com$                                               (^|\.)khm\.googleapis\.com$                                           (^|\.)khm0\.google\.com$                                              (^|\.)khm0\.googleapis\.com$
+(^|\.)khm1\.google\.com$                                              (^|\.)khm1\.googleapis\.com$
+(^|\.)khm2\.google\.com$                                              (^|\.)khm2\.googleapis\.com$                                          (^|\.)khm3\.google\.com$                                              (^|\.)khm3\.googleapis\.com$
+(^|\.)khmdb\.google\.com$                                             (^|\.)khmdb\.googleapis\.com$
+(^|\.)maolin-nsa\.gov\.tw$
+(^|\.)matsu-nsa\.gov\.tw$                                             (^|\.)matsucc\.gov\.tw$
+(^|\.)nankan\.gov\.tw$                                                (^|\.)necoast-nsa\.gov\.tw$
+(^|\.)northguan-nsa\.gov\.tw$                                         (^|\.)penghu-nsa\.gov\.tw$                                            (^|\.)post\.gov\.tw$                                                  (^|\.)redirector\.gvt1\.com$                                          (^|\.)siraya-nsa\.gov\.tw$
+(^|\.)sunmoonlake\.gov\.tw$
+(^|\.)trimt-nsa\.gov\.tw$
+(^|\.)uluai\.com\.cn$
+(^|\.)yda\.gov\.tw$
+
 # LAN
 ^(.*\.)?local$
 ^(.*\.)?localhost$
