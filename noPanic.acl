@@ -16,27 +16,6 @@
 
 (^|\.)realmebbs\.com$
 
-# China
-(^|\.)\w*-cn\w*\.\w*$
-(^|\.)\w*0x\w*\.\w*$
-(^|\.)\w*360buy\w*\.\w*$
-(^|\.)\w*alicdn\w*\.\w*$
-(^|\.)\w*alimama\w*\.\w*$
-(^|\.)\w*alipay\w*\.\w*$
-(^|\.)\w*appzapp\w*\.\w*$
-(^|\.)\w*baidupcs\w*\.\w*$
-(^|\.)\w*bilibili\w*\.\w*$
-(^|\.)\w*ccgslb\w*\.\w*$
-(^|\.)\w*chinacache\w*\.\w*$
-(^|\.)\w*duobao\w*\.\w*$
-(^|\.)\w*duolingo\w*\.\w*$
-(^|\.)\w*jdpay\w*\.\w*$
-(^|\.)\w*moke\w*\.\w*$
-(^|\.)\w*qhimg\w*\.\w*$
-(^|\.)\w*vpimg\w*\.\w*$
-(^|\.)\w*xiami\w*\.\w*$
-(^|\.)\w*xiaomi\w*\.\w*$
-
 # 360
 (^|\.)360\.com$
 (^|\.)360kuai\.com$
@@ -346,15 +325,6 @@
 185.188.32.1/28
 221.226.128.146/32
 
-# Public Direct CDN
-(^|\.)ajax\.aspnetcdn\.com$
-(^|\.)bootcss\.com$
-(^|\.)cdnjs\.cloudflare\.com$
-(^|\.)code\.jquery\.com$
-(^|\.)jiasule\.com$
-(^|\.)staticfile\.org$
-(^|\.)upaiyun\.com$
-
 # Acceleratedirectsites
 (^|\.)12306\.com$
 (^|\.)17173\.com$
@@ -595,29 +565,6 @@
 (^|\.)zhimg\.com$
 (^|\.)zhongsou\.com$
 (^|\.)zhuihd\.com$
-
-# GFWList Whitelist
-(^|\.)connectivitycheck\.gstatic\.com$
-(^|\.)cwb\.gov\.tw$
-(^|\.)dbnsa\.gov\.tw$
-(^|\.)eastcoast-nsa\.gov\.tw$
-(^|\.)erv-nsa\.gov\.tw$
-(^|\.)maolin-nsa\.gov\.tw$
-(^|\.)matsu-nsa\.gov\.tw$
-(^|\.)matsucc\.gov\.tw$
-(^|\.)nankan\.gov\.tw$
-(^|\.)necoast-nsa\.gov\.tw$
-(^|\.)northguan-nsa\.gov\.tw$
-(^|\.)penghu-nsa\.gov\.tw$
-(^|\.)post\.gov\.tw$
-(^|\.)redirector\.gvt1\.com$
-(^|\.)siraya-nsa\.gov\.tw$
-(^|\.)sunmoonlake\.gov\.tw$
-(^|\.)trimt-nsa\.gov\.tw$
-(^|\.)uluai\.com\.cn$
-(^|\.)yda\.gov\.tw$
-
-#**********************************************************************
 
 # Router managed
 (^|\.)hiwifi\.com$
