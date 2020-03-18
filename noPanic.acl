@@ -639,12 +639,6 @@
 (^|\.)zhongsou\.com$
 (^|\.)zhuihd\.com$
 
-# LAN
-^(.*\.)?local$
-^(.*\.)?localhost$
-^(.*\.)?ip6-localhost$
-^(.*\.)?ip6-loopback$
-
 # Router managed
 (^|\.)hiwifi\.com$
 (^|\.)leike\.cc$
