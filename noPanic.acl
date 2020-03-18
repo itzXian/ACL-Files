@@ -16,18 +16,6 @@
 
 (^|\.)realmebbs\.com$
 
-# LAN
-0\.0\.0\.0/8
-10\.0\.0\.0/8
-100\.64\.0\.0/10
-127\.0\.0\.1
-192\.168\.\w+\.\w*$
-192\.168\.31\.1
-169\.254\.0\.0/16
-172\.16\.0\.0/12
-203\.0\.113\.0/24
-224\.0\.0\.0/3
-
 # CN domain
 (^|\.)edu\.cn$
 (^|\.)gov\.cn$
@@ -356,36 +344,6 @@
 (^|\.)zmzapi\.net$
 (^|\.)zmzfile\.com$
 
-# Private Tracker$
-(^|\.)awesome-hd\.me$
-(^|\.)broadcasthe\.net$
-(^|\.)chdbits\.co$
-(^|\.)classix-unlimited\.co\.uk$
-(^|\.)empornium\.me$
-(^|\.)gazellegames\.net$
-(^|\.)hdchina\.org$
-(^|\.)hdsky\.me$
-(^|\.)icetorrent\.org$
-(^|\.)jpopsuki\.eu$
-(^|\.)keepfrds\.com$
-(^|\.)m-team\.cc$
-(^|\.)madsrevolution\.net$
-(^|\.)nanyangpt\.com$
-(^|\.)ncore\.cc$
-(^|\.)open\.cd$
-(^|\.)ourbits\.club$
-(^|\.)passthepopcorn\.me$
-(^|\.)privatehd\.to$
-(^|\.)redacted\.ch$
-(^|\.)springsunday\.net$
-(^|\.)tjupt\.org$
-(^|\.)totheglory\.im$
-(^|\.)msg\.vg$
-(^|\.)hdtime\.org$
-(^|\.)leaguehd\.com$
-(^|\.)pthome\.net$
-(^|\.)beitai\.pt$
-
 # TeamViewer
 (^|\.)teamviewer\.com$
 109.239.140.0/24
@@ -666,11 +624,6 @@
 (^|\.)yda\.gov\.tw$
 
 #**********************************************************************
-# LAN
-^(.*\.)?local$
-^(.*\.)?localhost$
-^(.*\.)?ip6-localhost$
-^(.*\.)?ip6-loopback$
 
 # Router managed
 (^|\.)hiwifi\.com$
@@ -683,14 +636,6 @@
 (^|\.)routerlogin\.com$
 (^|\.)tendawifi\.com$
 (^|\.)zte\.home$
-
-::ffff:0:0:0:0/1
-::ffff:128:0:0:0/1
-10.0.0.0/8
-100.64.0.0/10
-127.0.0.0/8
-172.16.0.0/12
-192.168.0.0/16
 
 # Alibaba
 8.128.0.0/10
