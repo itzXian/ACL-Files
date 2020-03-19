@@ -236,7 +236,7 @@
 (^|\.)letvlive\.com$
 (^|\.)letvstore\.com$
 
-# MGTV 芒果TV
+# MGTV
 (^|\.)hitv\.com$
 (^|\.)hunantv\.com$
 (^|\.)mgtv\.com$
@@ -398,7 +398,7 @@
 185.188.32.1/28
 221.226.128.146/32
 
-# Public Direct CDN 公共直连cdn
+# Public Direct CDN
 (^|\.)ajax\.aspnetcdn\.com$
 (^|\.)bootcss\.com$
 (^|\.)cdnjs\.cloudflare\.com$
