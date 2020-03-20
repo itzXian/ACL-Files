@@ -6697,4 +6697,4 @@
 223.255.252.0/23
 
 [proxy_list]
-(^|\.)services\.googleapis\.cn
+(^|\.)googleapis\.cn
